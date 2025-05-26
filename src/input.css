@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #f85606;
+  --font-display: "Roboto", sans-serif;
+  --font-notosans: "Noto Sans", sans-serif;
+  --shadow-lg: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
+}
